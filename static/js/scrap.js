@@ -32,3 +32,12 @@ addition = (a, b) => a + b;
 
 // Converted to an arrow function
 doubleAddition = (c, d) => addition(c, d) * 2;
+
+// Basic form of js if statement
+// if-statement syntax
+if ( condition ) { code to execute }
+
+// pseudocode practice
+if (a date is entered) {
+    Filter the default data to show only the date entered
+};
