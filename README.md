@@ -6,7 +6,7 @@ The purpose of this analysis uses JavaScript and HTML to create a webpage and dy
 ## Results
 To successfully navigate through the webpage users should use the filters precisely and follow the formats of the placeholders. 
 
-![]()
+![](https://github.com/irenedepacina/UFOs/blob/main/static/images/filterSearch.png)
 
 The format for each filter are as followed:
 - Date: MM/DD/YYYY
