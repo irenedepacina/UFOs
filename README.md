@@ -20,5 +20,5 @@ The format for each filter are as followed:
 One drawback of this new design is the data. The filters would be most effective with a larger dataset. This can be done by selecting data of UFO sightings spanning over several years and includes countries outside the US. 
 
 Recommendations:
-- to include a filter that indicates the time the UFO was sighted. This would deem advantageous in the future as data can show which time of day UFO's tend to appear.
-- a Clear filter to make the create a user-friendly experience for those using the webpage. Right now, the user would have to manually delete each filter input but a clear filter could delete all the search items are the same time. 
+- Include a filter that indicates the time the UFO was sighted. This would deem advantageous in the future as data can show which time of day UFO's tend to appear.
+- Include a Clear filter to make the create a user-friendly experience for those using the webpage. Right now, the user would have to manually delete each filter input but a clear filter could delete all the search items are the same time. 
