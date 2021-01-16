@@ -1,4 +1,4 @@
-# UFO's
+# UFO Sightings - ET PHONE HOME
 
 ## Overview of Project
 The purpose of this analysis is to use JavaScript and HTML to create a webpage and dynamic table that provides an in-depth analysis of UFO sightings. The HTML page holds an article and the presentation of the table and webpsage. JavaScript displays information in the table and shows when and where the sightings took place and general comments about the UFO. The webpage allows users to filter through multiple critera simultaneously. The sightings can be filtered by city, state, country, and shape. The filters help users narrow down their search and show relevant results. 
